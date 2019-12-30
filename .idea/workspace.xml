@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="044afeb4-03ec-4620-a0f3-065b57e57253" name="Default Changelist" comment="" />
+    <list default="true" id="044afeb4-03ec-4620-a0f3-065b57e57253" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/tweet/Post/serializers.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,22 +20,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="7" />
+          <entry key="py" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="7" />
+          <entry key="Python" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="321" />
+          <entry key="py" value="1218" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="321" />
+          <entry key="Python" value="1218" />
         </counts>
       </usages-collector>
     </session>
@@ -56,8 +58,50 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2000">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet/Post/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+                <marker date="1577708998075" expanded="true" signature="156:161" ph="..." />
+                <marker date="1577708998075" expanded="true" signature="509:514" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tweet/Post/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+                <marker date="1577708998175" expanded="true" signature="154:159" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tweet/Post/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
-              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+                <marker date="1577708997859" expanded="true" signature="126:131" ph="..." />
+                <marker date="1577708997859" expanded="true" signature="126:193" ph="..." />
+                <marker date="1577708997859" expanded="true" signature="247:252" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,20 +109,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-              <folding>
-                <element signature="e#629#661#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="169">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet/User/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="144">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
               </folding>
@@ -89,11 +130,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tweet/User/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="160">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1577706118892" expanded="true" signature="185:190" ph="..." />
+                <marker date="1577706737039" expanded="true" signature="210:215" ph="..." />
               </folding>
             </state>
           </provider>
@@ -103,7 +144,7 @@
         <entry file="file://$PROJECT_DIR$/tweet/User/serializers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
                 <marker date="1577706025945" expanded="true" signature="116:117" ph="..." />
@@ -129,19 +170,22 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tweet/User/models.py" />
-        <option value="$PROJECT_DIR$/tweet/tweet/settings.py" />
         <option value="$PROJECT_DIR$/tweet/tweet/urls.py" />
         <option value="$PROJECT_DIR$/tweet/User/serializers.py" />
-        <option value="$PROJECT_DIR$/tweet/User/views.py" />
         <option value="$PROJECT_DIR$/tweet/User/urls.py" />
+        <option value="$PROJECT_DIR$/tweet/User/views.py" />
+        <option value="$PROJECT_DIR$/tweet/tweet/settings.py" />
+        <option value="$PROJECT_DIR$/tweet/Post/models.py" />
+        <option value="$PROJECT_DIR$/tweet/Post/serializers.py" />
+        <option value="$PROJECT_DIR$/tweet/Post/views.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="703" />
-    <option name="y" value="25" />
-    <option name="width" value="663" />
-    <option name="height" value="743" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="41" />
+    <option name="y" value="27" />
+    <option name="width" value="653" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,18 +204,6 @@
               <item name="startx" type="b2602c69:ProjectViewProjectNode" />
               <item name="startx" type="462c0819:PsiDirectoryNode" />
               <item name="tweet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="startx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startx" type="462c0819:PsiDirectoryNode" />
-              <item name="tweet" type="462c0819:PsiDirectoryNode" />
-              <item name="tweet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="startx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="startx" type="462c0819:PsiDirectoryNode" />
-              <item name="tweet" type="462c0819:PsiDirectoryNode" />
-              <item name="User" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -209,14 +241,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="703" y="25" width="663" height="743" extended-state="4" />
+    <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2421875" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38479263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33060557" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33060557" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -244,7 +277,7 @@
     <entry file="file://$PROJECT_DIR$/tweet/User/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
             <marker date="1577706025945" expanded="true" signature="116:117" ph="..." />
@@ -264,40 +297,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
+    <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        <state relative-caret-position="2000">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
           <folding>
-            <element signature="e#629#661#0" expanded="true" />
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1577708998075" expanded="true" signature="156:161" ph="..." />
+            <marker date="1577708998075" expanded="true" signature="509:514" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet/User/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="160">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1577706118892" expanded="true" signature="185:190" ph="..." />
+            <marker date="1577706737039" expanded="true" signature="210:215" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet/User/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="144">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+            <marker date="1577708997859" expanded="true" signature="126:131" ph="..." />
+            <marker date="1577708997859" expanded="true" signature="126:193" ph="..." />
+            <marker date="1577708997859" expanded="true" signature="247:252" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+            <marker date="1577708998175" expanded="true" signature="154:159" ph="..." />
           </folding>
         </state>
       </provider>

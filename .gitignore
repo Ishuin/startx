@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+tweet/Post/__pycache__/
+tweet/Post/migrations/__pycache__/
+tweet/User/__pycache__/__init__.cpython-37.pyc
+tweet/User/__pycache__/admin.cpython-37.pyc
+tweet/User/__pycache__/models.cpython-37.pyc
+tweet/User/__pycache__/serializers.cpython-37.pyc
+tweet/User/__pycache__/urls.cpython-37.pyc
+tweet/User/__pycache__/views.cpython-37.pyc
+tweet/User/migrations/__pycache__/0001_initial.cpython-37.pyc
+tweet/User/migrations/__pycache__/__init__.cpython-37.pyc
+tweet/tweet/__pycache__/__init__.cpython-37.pyc
+tweet/tweet/__pycache__/settings.cpython-37.pyc
+tweet/tweet/__pycache__/urls.cpython-37.pyc
+tweet/tweet/__pycache__/wsgi.cpython-37.pyc
+.idea/
+myenv/

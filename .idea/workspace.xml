@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="044afeb4-03ec-4620-a0f3-065b57e57253" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tweet/Post/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tweet/Post/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tweet/Post/migrations/0002_auto_20191231_2308.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tweet/Post/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/startx.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/startx.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/sre_compile.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/sre_compile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/sre_constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/sre_constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/sre_parse.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/sre_parse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/stat.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/stat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/struct.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/struct.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/tarfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/tarfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/tempfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/tempfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/tokenize.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/tokenize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/warnings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/warnings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/lib/python3.6/weakref.py" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/lib/python3.6/weakref.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/local/bin" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/local/bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/local/include" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/local/include" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myenv/local/lib" beforeDir="false" afterPath="$PROJECT_DIR$/myenv/local/lib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/Post/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/Post/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/Post/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/Post/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/tweet/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/tweet/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tweet/tweet/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/tweet/tweet/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,146 +38,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="284899307">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="10" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="1218" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="1218" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/User/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-                <marker date="1577705700469" expanded="true" signature="136:190" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2000">
-              <caret line="125" selection-start-line="125" selection-end-line="125" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/Post/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-                <marker date="1577708998075" expanded="true" signature="156:161" ph="..." />
-                <marker date="1577708998075" expanded="true" signature="509:514" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tweet/Post/views.py">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1577708998175" expanded="true" signature="154:159" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/Post/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <marker date="1577708997859" expanded="true" signature="126:131" ph="..." />
-                <marker date="1577708997859" expanded="true" signature="126:193" ph="..." />
-                <marker date="1577708997859" expanded="true" signature="247:252" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/User/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#0#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/User/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#0#35#0" expanded="true" />
-                <marker date="1577706737039" expanded="true" signature="210:215" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tweet/User/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-                <marker date="1577706025945" expanded="true" signature="116:117" ph="..." />
-                <marker date="1577706025945" expanded="true" signature="116:121" ph="..." />
-              </folding>
+            <state relative-caret-position="26">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -164,28 +59,30 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tweet" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/tweet/User/models.py" />
-        <option value="$PROJECT_DIR$/tweet/tweet/urls.py" />
         <option value="$PROJECT_DIR$/tweet/User/serializers.py" />
         <option value="$PROJECT_DIR$/tweet/User/urls.py" />
         <option value="$PROJECT_DIR$/tweet/User/views.py" />
-        <option value="$PROJECT_DIR$/tweet/tweet/settings.py" />
-        <option value="$PROJECT_DIR$/tweet/Post/models.py" />
         <option value="$PROJECT_DIR$/tweet/Post/serializers.py" />
+        <option value="$PROJECT_DIR$/tweet/tweet/urls.py" />
+        <option value="$PROJECT_DIR$/tweet/tweet/settings.py" />
         <option value="$PROJECT_DIR$/tweet/Post/views.py" />
+        <option value="$PROJECT_DIR$/tweet/Post/models.py" />
+        <option value="$PROJECT_DIR$/tweet/Post/urls.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="41" />
-    <option name="y" value="27" />
-    <option name="width" value="653" />
-    <option name="height" value="741" />
+    <option name="x" value="700" />
+    <option name="y" value="25" />
+    <option name="width" value="665" />
+    <option name="height" value="745" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,7 +110,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ishu\PycharmProjects\startx" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -237,20 +141,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577705081261</updated>
+      <workItem from="1577811170449" duration="3097000" />
+      <workItem from="1577814726062" duration="492000" />
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3589000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="25" width="1325" height="743" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="846" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38479263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17437962" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33060557" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -258,13 +163,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3280116" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/tweet" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/myenv/lib/python3.6/site-packages/django/contrib/auth/models.py">
@@ -274,62 +192,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/User/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <marker date="1577706025945" expanded="true" signature="116:117" ph="..." />
-            <marker date="1577706025945" expanded="true" signature="116:121" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tweet/User/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
+        <state relative-caret-position="260">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-            <marker date="1577705700469" expanded="true" signature="136:190" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2000">
-          <caret line="125" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/Post/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-            <marker date="1577708998075" expanded="true" signature="156:161" ph="..." />
-            <marker date="1577708998075" expanded="true" signature="509:514" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/User/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1577706737039" expanded="true" signature="210:215" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet/User/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="234">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -337,34 +212,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
+    <entry file="file://$PROJECT_DIR$/tweet/User/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tweet/Post/serializers.py">
+    <entry file="file://$PROJECT_DIR$/tweet/User/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="208">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <marker date="1577708997859" expanded="true" signature="126:131" ph="..." />
-            <marker date="1577708997859" expanded="true" signature="126:193" ph="..." />
-            <marker date="1577708997859" expanded="true" signature="247:252" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/tweet/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tweet/Post/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="312">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
-            <marker date="1577708998175" expanded="true" signature="154:159" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/Post/admin.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tweet/tweet/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="21" column="40" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+          <folding>
+            <element signature="e#629#661#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
         </state>
       </provider>
     </entry>

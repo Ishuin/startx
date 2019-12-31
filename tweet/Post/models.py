@@ -9,8 +9,8 @@ User = get_user_model()
 class Post(models.Model):
     name = models.CharField(max_length=255, null=False)
     content = models.TextField(null=False)
-    created_at = models.DateTimeField(auto_created=True)
-    updated_at = models.DateTimeField(auto_now_add=True)
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
     like_count = models.IntegerField(default=0, null=True)
 
     def __str__(self):

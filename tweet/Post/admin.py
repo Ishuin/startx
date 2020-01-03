@@ -5,4 +5,4 @@ from .models import Post, PostLike
 
 @admin.register(Post)
 class PostAdmin(admin.ModelAdmin):
-    list_display = ('name', 'created_at')
+    list_display = ('title', 'created_date')

@@ -23,6 +23,7 @@
                                 <p style="font-size: 20px" class="top-menu nav-link">Hello {{ user.username }} (<a href="{% url 'logout' %}"><span class="fa fa-sign-out" aria-hidden="true"></span>&nbsp; log out</a>)</p>
                             </li>
                         </ul>
+                        <a class="nav-link" style="margin-top: 7.5px" href="{% url 'post:liked_posts' %}" class="top-menu"><span aria-hidden="true"> Liked Posts </span></a>
                     {% else %}
                         <ul class="navbar-nav">
                             <li class="nav-item">

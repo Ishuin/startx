@@ -84,3 +84,8 @@ def like_post(request):
         post.like_count.add(request.user.id)
         is_liked = True
     return HttpResponseRedirect(post.get_absolute_url())
+
+
+def liked_posts(request):
+    posts = request.user.post_likes.all()
+    return render(request, 'post/liked_post_list.html', {'liked_posts': posts})

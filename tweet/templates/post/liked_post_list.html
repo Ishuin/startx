@@ -1,0 +1,14 @@
+{% extends 'post/base.html' %}
+
+{% block content %}
+    {% for post in liked_posts %}
+        <div class="post">
+            
+            <h2><a href="{% url 'post:post_detail' pk=post.pk %}">{{ post.title }}</a></h2>
+            <div class="date">
+                <p>published: {{ post.created_date }}</p>
+                <small>{{ linebreaksbr }}</small>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

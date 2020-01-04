@@ -1,5 +1,5 @@
 from django.urls import path, include
-from .views import UserViewSet
+from .views import UserViewSet, register
 from rest_framework.routers import DefaultRouter
 
 router = DefaultRouter()
@@ -15,4 +15,5 @@ urlpatterns = [
     path('new/', UserViewSet.create, name='user_new'),
     path('<int:pk>/edit/', UserViewSet.update, name='user_edit'),
     path('<pk>/remove/', UserViewSet.destroy, name='user_remove'),
+    path('register/', register, name='register'),
 ]
